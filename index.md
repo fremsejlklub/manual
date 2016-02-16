@@ -135,39 +135,46 @@ udvalgt billede” får du mulighed for enten at uploade et nyt billede,
 eller bruge et allerede uploadet billede. Husk at gemme begivenheden,
 hvis du har lavet ændringer du vil gemme.
 
-# Widgets
+# Widgets og Spots
 
-Widgets er de blokke du kan tilføje til de forskellige sider under
-sektionerne “Smal sidebar” og “Bred sidebar”. “Bred sidebar”
-fremkommer kun på landingpages. For at tilføje en ny blok i en sidebar
-trykker du på den blå knap, “Tilføj element”. I toppen har du mulighed
-for at vælge type, enten “Widget” eller “Side”. På nuværende tidspunkt
-er følgende Widgets tilgængelige:
+Widgets og Spots finder du på sider. Widgets (blå streg over en
+lyserød trekant, der peger på en overskrift) og Spots (lyserødt felt
+med hvid tekst) er de blokke du kan tilføje til en side.
 
-* Seneste nyheder
-   De 3 seneste nyheder
-* Kommende begivenheder
-   Kommende begivenheder fra kalenderen
-* Nyhedsbrev
-   Tilmeldingsformular til Nyhedsbrev
+Widgets rummer valgmulighed for Seneste Nyheder, Kommende
+arrangementer og Nyhedsbrev.  Spots peger på andet indhold på oesf.dk
+og bruges for at fremhæve dette. Spots kan tilføjes en overskrift
+under Tekst.
 
-Du tilføjer en widget ved at klikke på den valgte i venstre
+Både Widgets og Spots tilføjes ved at scrolle ned i bunden af din
+side, hvor der står sidebar (findes i udgaven smal og bred).
+
+Smal sidebar handler om hvad der ses i blokken til højre for din tekst
+ude på Landing Pages (forældresider) og Default Pages (børnesider) og
+kan både rumme Widgets og Spots.
+
+Bred sidebar handler om hvad der ses i bunden ude på Landing Pages og
+forekommer kun på Landing Pages og kan kun rumme Spots.
+
+Du tilføjer en Widget ved at klikke på den valgte i venstre
 kolonne. Når den er valgt fremkommer den i højre kolonne, hvor de
 valgte kan trækkes op eller ned for at bestemme rækkefølgen de skal
 vises i.
 
-“Side” er en reference til noget eksisterende indhold på Frems
+Spot er som nævnt en reference til noget eksisterende indhold på Frems
 hjemmeside. Det kan være en nyhed, en begivenhed eller en side. For at
 tilføje et link til en side er fremgangsmåden den samme som for
-Widgets, du skal blot vælge “Side” som “Type”. Når du har valgt en
-side har du mulighed for, i feltet “Tekst”, at skrive en tekst om
-siden, der vil fremkomme i sidebaren.  Der er kun mulighed for at
-tilføje én side af gangen, så for at tilføje flere skal du tilføje
-endnu et element. Du kan oprette så mange side elementer eller widget
-elementer som du ønsker og ændre rækkefølgen på dem ved at trække i
-kolonnen til venstre hvor “Elementets” rækkefølgenummer fremgår.
+Widgets, du skal blot vælge “Spot” som “Type” (i stedet for
+Widget). Når du har valgt en Spot har du mulighed for i feltet Tekst
+at skrive en tekst om den side, som Spot'en peger på.
 
-I brede sidebars har du mulighed for at tilføje accordions, som du kan
+Der er kun mulighed for at tilføje én side af gangen, så for at
+tilføje flere skal du tilføje endnu et element. Du kan oprette så
+mange side-elementer eller widget/spot-elementer som du ønsker og
+ændre rækkefølgen på dem ved at trække i kolonnen til venstre hvor
+elementets rækkefølgenummer fremgår.
+
+I brede sidebars har du mulighed for at tilføje Accordions, som du kan
 læse om under punktet “Accordions”.
 
 # Accordions
